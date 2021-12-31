@@ -1,0 +1,3 @@
+# fish-style autosuggestions
+antigen bundle zsh-users/zsh-autosuggestions
+
